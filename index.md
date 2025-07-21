@@ -6,7 +6,7 @@
 
 ### About Me
 
-### [Professional](https://github.com/TechieMaks/eportfolio.github.io/blob/a82b12f30c4613218307fd6ff73d8cc7e225409f/Professional1.md)
+### [Professional](https://TechieMaks.github.io/eportfolio2/professional)
 
 ### [Personal](https://github.com/TechieMaks/eportfolio.github.io/blob/7fa55dc0cc034a557c91213727f99625a420cec2/Personal.md) 
 
